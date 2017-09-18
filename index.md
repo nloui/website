@@ -1,3 +1,0 @@
-## Nick Loui
-
-Hello World
